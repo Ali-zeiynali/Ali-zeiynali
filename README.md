@@ -57,19 +57,6 @@ Besides technical work, I also design and build personal, public, and utility-or
 
 ---
 
-## 📂 Projects
-
-### 🗂️ Repco CRM
-A **complete CRM** for managing customers, transactions, and bulk messaging powered by AI  
-- Backend: Flask + SQLAlchemy + PostgreSQL  
-- Frontend: Vue.js + TailwindCSS  
-- Features: Smart loan system, VIP segmentation, AI-based purchase suggestion module, scheduled SMS delivery  
-- Deployment: Nginx + Gunicorn + Linux VPS  
-
-### 📚 Educational Tools
-A collection of **educational and cultural tools** designed for schools and institutions.  
-
----
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-zeiynali&layout=compact&theme=radical&count_private=true)  

@@ -73,7 +73,7 @@ A collection of **educational and cultural tools** designed for schools and inst
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-zeiynali&layout=compact&theme=radical&count_private=true)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-zeiynali&show_icons=true&theme=radical&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-zeiynali&show_icons=true&theme=radical&count_private=true&cache_seconds=1)
 
 ---
 

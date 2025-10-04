@@ -9,7 +9,8 @@
 ---
 
 ## 📝 About Me
-I am **Ali Zeinali**, a Full-Stack Developer with **3 years of professional experience** at **Repco**.  
+I am **Ali Zeinali**, a Full-Stack Developer with **3 years of professional experience** 
+I currently work at **Repco**.
 I have broad expertise in **Python**, **Vue.js**, as well as **DevOps, Deployment, and Security Development**.  
 Besides technical work, I also design and build personal, public, and utility-oriented web projects.  
 
@@ -63,7 +64,7 @@ A **complete CRM** for managing customers, transactions, and bulk messaging powe
 - Backend: Flask + SQLAlchemy + PostgreSQL  
 - Frontend: Vue.js + TailwindCSS  
 - Features: Smart loan system, VIP segmentation, AI-based purchase suggestion module, scheduled SMS delivery  
-- Deployment: Nginx + Gunicorn + VPS  
+- Deployment: Nginx + Gunicorn + Linux VPS  
 
 ### 📚 Educational Tools
 A collection of **educational and cultural tools** designed for schools and institutions.  
